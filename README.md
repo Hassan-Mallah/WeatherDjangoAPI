@@ -1,3 +1,3 @@
-# Navbar Javascript
+# Check the weather of your favorite cities
 
-![Alt text](https://github.com/Hassan-Mallah/New/blob/master/Navbar.gif)
+![Alt text](https://github.com/Hassan-Mallah/WeatherDjangoAPI/blob/master/Screenshot.gif)
